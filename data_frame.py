@@ -10,6 +10,7 @@
 
 
 import pandas as pd
+import random
 
 # Создаем  DataFrame
 lst = ['robot'] * 10
